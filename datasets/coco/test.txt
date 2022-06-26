@@ -1,4 +1,3 @@
-/content/datasets/coco/images//content/datasets/coco/images/task3_digits_version10dig0_10_47101.png
 /content/datasets/coco/images/task3_digits_version10dig0_9_73004.png
 /content/datasets/coco/images/task3_digits_version10dig0_9_73103.png
 /content/datasets/coco/images/task3_digits_version10dig0_9_73106.png
